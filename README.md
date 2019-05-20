@@ -21,8 +21,11 @@ The questions and solutions provided in this course are based on some of the mos
 To fully benefit from the coverage included in this course, you will need:<br/>
 Beginning and intermediate R programmers will find answers in this course to questions they have encountered (or will encounter) frequently when writing R.		
 ### Technical Requirements
-This course has the following software requirements:<br/>
-dfsdfdfgdfgdfgdfgdfgdfg
+### Minimum Hardware Requirements
+<UL>
+<LI>OS: GNU/Linux Distribution (ex: Ubuntu, Debian, Fedora, etc.), Mac OS, Microsoft Windows</LI>
+<LI>Processor: Relatively modern CPU (Intel Core iX series 4th gen,  AMD equivalent)</LI>
+<LI>Memory: 4GB</LI></UL>
 
 ## Related Products
 * [Extended Reality (XR) - Building AR | VR | MR Projects [Video]](https://www.packtpub.com/game-development/extended-reality-xr-building-ar-vr-mr-projects-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559694)
